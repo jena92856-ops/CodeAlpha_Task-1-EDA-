@@ -294,10 +294,11 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/70761ff3acc9b7953964e99b27164a0514b8ef25/06_top_10_transactions.png) 
 
 ```
-images/top_10_transactions.png
+A small number of high-value transactions stand out well above the typical range.
+ These likely represent bulk purchases or high-ticket items.
 ```
 
 ---
