@@ -235,10 +235,11 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/f9cdfada687f110f1e1865d0fc6a444f51cadbb9/05_revenue_by_category.png) 
 
 ```
-images/revenue_by_category.png
+Product categories differ in their revenue contribution despite similar transaction counts.
+This suggests differences in price per unit or quantity purchased across categories.
 ```
 
 ---
