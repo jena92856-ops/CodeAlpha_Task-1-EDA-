@@ -176,10 +176,11 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/6f7c112756e36bec9aaf77daf53980c08e515ebc/03_sales_by_gender.png) 
 
 ```
-images/sales_by_gender.png
+Revenue contribution differs slightly between male and female customers.
+This gap points to potential opportunities for gender-targeted marketing strategies.
 ```
 
 ---
@@ -203,10 +204,10 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](
 
 ```
-images/product_category_distribution.png
+Transaction volume is fairly evenly distributed across Beauty, Clothing, and Electronics. No single category dominates in terms of purchase frequency.
 ```
 
 ---
