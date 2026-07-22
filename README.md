@@ -146,10 +146,11 @@ plt.show()
 
 ### Output
 
-> 📷 ![image alt](
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/6c480d32edabb681b940f52c1a361a8cba9ef447/02_gender_distribution.png) 
 
 ```
-images/gender_distribution.png
+The customer base is nearly evenly split between male and female shoppers.
+This balance suggests marketing efforts don't need to heavily favor one gender over the other.
 ```
 
 ---
