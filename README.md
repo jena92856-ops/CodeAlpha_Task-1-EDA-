@@ -204,7 +204,7 @@ plt.show()
 
 ### Output
 
-> 📷 ![image alt](
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/975a62509470d1ccddbb11b03b07d36727660946/04_category_distribution.png)
 
 ```
 Transaction volume is fairly evenly distributed across Beauty, Clothing, and Electronics. No single category dominates in terms of purchase frequency.
