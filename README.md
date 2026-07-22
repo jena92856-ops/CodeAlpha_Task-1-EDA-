@@ -121,10 +121,11 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
-
+> 📷 
+![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/c7bbdede6c56bc3f0525dbde1e307a7dc8faba65/01_age_distribution.png) 
 ```
-images/customer_age_distribution.png
+The age distribution is fairly even across 18–64 years, with a slight concentration in the 30–50 range.  
+This shows the store serves a broad, middle-aged customer base rather than one narrow age segment.
 ```
 
 ---
@@ -145,7 +146,7 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](
 
 ```
 images/gender_distribution.png
