@@ -323,10 +323,11 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/3a3ce0e0531a8cb916f5951bfe17ffd5e6a9da98/07_quantity_vs_amount.png) 
 
 ```
-images/quantity_vs_amount.png
+Total amount generally increases with quantity purchased.
+Price per unit variation across products creates a scattered rather than strictly linear pattern.
 ```
 
 ---
