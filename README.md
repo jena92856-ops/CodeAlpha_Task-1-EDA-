@@ -350,10 +350,11 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/5a977ef2d417d401f7be318c01d18aa3302a54e3/08_outlier_boxplot.png) 
 
 ```
-images/outlier_detection.png
+A number of transactions fall outside the typical interquartile range.
+These represent high-value outlier purchases worth reviewing separately.
 ```
 
 ---
@@ -380,10 +381,11 @@ plt.show()
 
 ### Output
 
-> 📷 Add Screenshot
+> 📷 ![image alt](https://github.com/jena92856-ops/CodeAlpha_Task-1-EDA-/blob/5a977ef2d417d401f7be318c01d18aa3302a54e3/09_correlation_heatmap.png)
 
 ```
-images/correlation_heatmap.png
+Total Amount shows a strong positive correlation with both Quantity and Price per Unit.
+ Age, by contrast, shows little to no correlation with spending behavior.
 ```
 
 ---
@@ -425,7 +427,9 @@ This project demonstrates the power of **Exploratory Data Analysis (EDA)** in ex
 
 **Aditya Jena**
 
-**B.Tech (Information Technology)**
+**B.Tech (Information Technology)** 
+
+CodeAlpha — Data Analytics Internship Task 2:  EDA(Exploratory Data Analysis) 
 
 ### Skills
 
